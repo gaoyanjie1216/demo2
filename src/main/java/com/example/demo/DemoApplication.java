@@ -9,6 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 
 		System.out.print(45345353);
+
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
